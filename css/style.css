@@ -1,0 +1,54 @@
+/* Install Font */
+@font-face {
+	font-family: 'Gotham Bold.';
+	src: url('../fonts/Gotham Bold.otf');
+}
+
+@font-face {
+	font-family: 'Gotham Book Regular';
+	src: url('../fonts/Gotham Book Regular.otf');
+}
+
+@font-face {
+	font-family: 'Gotham Medium';
+	src: url('../fonts/Gotham Medium.otf');
+}
+
+@font-face {
+	font-family: 'OpenSans-Bold';
+	src: url('../fonts/OpenSans-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Roboto-Bold';
+	src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'Roboto-Medium';
+	src: url('../fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'RobotoCondensed-Bold';
+	src: url('../fonts/RobotoCondensed-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'RobotoCondensed-Regular';
+	src: url('../fonts/RobotoCondensed-Regular.ttf');
+}
+
+/* End */
+
+
+/* Start Styling   */
+header
+{
+ background-image: url("images/Layer 97.png");
+}
